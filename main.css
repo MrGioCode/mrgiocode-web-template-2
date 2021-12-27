@@ -1,0 +1,237 @@
+* {
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+body {
+  font-size: 14px;
+  padding: 0px;
+  margin: 0px;
+}
+.contenedor {
+  width: 100%;
+  height: 1200px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  overflow: hidden;
+}
+.subcontenedor1 {
+  width: 100%;
+  height: 491px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  overflow: hidden;
+}
+.texto1-subcontenedor1-contenedor {
+  width: 313px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 210px;
+  left: 155px;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.texto2-subcontenedor1-contenedor {
+  width: 276px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 278px;
+  left: 206px;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.carta1-subcontenedor1-contenedor {
+  width: 389px;
+  height: 325px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 95px;
+  left: 732px;
+  border-radius: 10px;
+}
+.texto1-carta1-subcontenedor1-contenedor {
+  width: 245px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 132px;
+  left: 799px;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.texto2-carta1-subcontenedor1-contenedor {
+  width: 147px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 223px;
+  left: 853px;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.texto3-carta1-subcontenedor1-contenedor {
+  width: 147px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 269px;
+  left: 853px;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.texto4-carta1-subcontenedor1-contenedor {
+  width: 147px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 315px;
+  left: 853px;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.boton1-subcontenedor1-contenedor {
+  text-decoration: none;
+  padding: 11px;
+  width: 144px;
+  background: black;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 368px;
+  left: 854px;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.boton2-subcontenedor1-contenedor {
+  text-decoration: none;
+  width: 155px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 34px;
+  left: 17px;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.boton3-subcontenedor1-contenedor {
+  text-decoration: none;
+  width: 93px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 34px;
+  left: 808px;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.boton4-subcontenedor1-contenedor {
+  text-decoration: none;
+  width: 93px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 34px;
+  left: 945px;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.boton5-subcontenedor1-contenedor {
+  text-decoration: none;
+  width: 93px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 34px;
+  left: 1082px;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+
+
+.texto1-servicios {
+  text-align: center;
+  color: black;
+}
+.carta1-servicios {
+  float: left;
+  text-align: center;
+  background: #f5f4f4;
+  color: black;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 50px;
+  min-width: 100px;
+  width: 200px;
+  max-width: 200px;
+  box-shadow: 0px 4px 4px rgba(168, 164, 164, 0.5);
+  border-radius: 3px;
+}
+.carta2-servicios {
+  float: left;
+  text-align: center;
+  background: #f5f4f4;
+  color: black;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 50px;
+  min-width: 100px;
+  width: 200px;
+  max-width: 200px;
+  box-shadow: 0px 4px 4px rgba(168, 164, 164, 0.5);
+  border-radius: 3px;
+}
+.carta3-servicios {
+  float: left;
+  text-align: center;
+  background: #f5f4f4;
+  color: black;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 50px;
+  min-width: 100px;
+  width: 200px;
+  max-width: 200px;
+  box-shadow: 0px 4px 4px rgba(168, 164, 164, 0.5);
+  border-radius: 3px;
+}
+.carta4-servicios {
+  float: left;
+  text-align: center;
+  background: #f5f4f4;
+  color: black;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 50px;
+  min-width: 100px;
+  width: 200px;
+  max-width: 200px;
+  box-shadow: 0px 4px 4px rgba(168, 164, 164, 0.5);
+  border-radius: 3px;
+}
+.carta5-servicios {
+  float: left;
+  text-align: center;
+  background: #f5f4f4;
+  color: black;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 50px;
+  min-width: 100px;
+  width: 200px;
+  max-width: 200px;
+  box-shadow: 0px 4px 4px rgba(168, 164, 164, 0.5);
+  border-radius: 3px;
+}
